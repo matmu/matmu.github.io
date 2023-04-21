@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Matthias Munz"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "From a village near Freiburg, Germany. Living and working in Penzberg, Bavaria. Passionate about bioinformatics, climbing and travelling. Programmer. Big data expert. Problem solver. Creator. Autodidact."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
