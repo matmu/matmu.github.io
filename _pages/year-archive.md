@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "o"
 permalink: /posts/
 layout: posts
 author_profile: true
