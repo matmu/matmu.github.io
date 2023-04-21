@@ -1,8 +1,9 @@
 ---
 title: " "
 permalink: /
-layout: posts
 author_profile: true
 header:
   overlay_image: /assets/images/mountain.png
 ---
+
+Test
