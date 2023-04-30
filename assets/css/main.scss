@@ -14,6 +14,15 @@ $header-font-family : $sans-serif-narrow;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.sidebar .author__name {
-  font-size: $type-size-3;
+
+/*
+   Author profile and links
+   ========================================================================== */
+.sidebar {
+  p,
+  li {
+    font-family: $sans-serif;
+    font-size: $type-size-8;
+    line-height: 1.5;
+  }
 }
