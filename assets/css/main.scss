@@ -5,7 +5,13 @@ search: false
 
 @charset "utf-8";
 
+
+/*
+   Typography
+   ========================================================================== */
 $serif              : "PT Serif", Georgia, Times, serif;
+$sans-serif: "PT Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 $global-font-family : $serif;
