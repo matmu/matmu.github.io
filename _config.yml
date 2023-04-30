@@ -80,15 +80,15 @@ author:
     - label: "G. Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.de/citations?user=YqZW19IAAAAJ&hl=de"
- #   - label: "Instagram"
- #     icon: "fab fa-fw fa-instagram"
- #     url: "https://instagram.com/matthiasmunz"
- #   - label: "LinkedIn"
- #     icon: "fab fa-fw fa-linkedin"
- #     url: "https://www.linkedin.com/in/matthias-munz"
- #   - label: Stackoverflow
- #     icon: "fab fa-fw fa-stack-overflow"
- #     url: "https://stackoverflow.com/users/1150325"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/matthiasmunz"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matthias-munz"
+    - label: Stackoverflow
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/1150325"
 
 footer:
   links:
