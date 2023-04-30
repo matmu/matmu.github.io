@@ -78,15 +78,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "http://github.com/matmu"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/matthiasmunz"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/matthias-munz"
-    - label: Stackoverflow
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/1150325"
+ #   - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+ #     url: "https://instagram.com/matthiasmunz"
+ #   - label: "LinkedIn"
+ #     icon: "fab fa-fw fa-linkedin"
+ #     url: "https://www.linkedin.com/in/matthias-munz"
+ #   - label: Stackoverflow
+ #     icon: "fab fa-fw fa-stack-overflow"
+ #     url: "https://stackoverflow.com/users/1150325"
 
 footer:
   links:
