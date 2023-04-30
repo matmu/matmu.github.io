@@ -79,7 +79,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "http://github.com/matmu"
     - label: "G. Scholar"
-      icon: "ai ai-google-scholar-square ai-3x"
+      icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.de/citations?user=YqZW19IAAAAJ&hl=de"
  #   - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
