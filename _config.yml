@@ -61,10 +61,14 @@ author:
   name   : "Matthias Munz"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "From a village near Freiburg, Germany. Living and working in Penzberg, Bavaria. Passionate about bioinformatics, climbing and travelling. Programmer. Big data expert. Problem solver. Creator. Autodidact."
+  location: Penzberg
+#  google_scholar: YqZW19IAAAAJ
+#  docker:         matmu
+#  orcid:          "0000-0002-4728-3357"
   links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
+#   - label: "Website"
+#     icon: "fas fa-fw fa-link"
+#     url: "https://"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:matthias.munz@gmx.de"
@@ -77,18 +81,24 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/matthiasmunz"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matthias-munz"
+    - label: Stackoverflow
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/1150325"
 
 footer:
   links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+#   - label: "Twitter"
+#     icon: "fab fa-fw fa-twitter-square"
+#     url: "https://twitter.com/"
+#   - label: "GitHub"
+#     icon: "fab fa-fw fa-github"
+#     url: "https://github.com/"
+#   - label: "Instagram"
+#     icon: "fab fa-fw fa-instagram"
+#     url: "https://instagram.com/"
 
 defaults:
   # _posts
