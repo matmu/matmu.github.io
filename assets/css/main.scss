@@ -16,6 +16,7 @@ $sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Robo
 
 $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
+$caption-font-family: $sans-serif;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
