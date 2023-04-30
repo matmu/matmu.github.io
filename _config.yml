@@ -62,7 +62,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "From a village near Freiburg, Germany. Living and working in Penzberg, Bavaria. Passionate about bioinformatics, climbing and travelling. Programmer. Big data expert. Problem solver. Creator. Autodidact."
   location: Penzberg
-#  google_scholar: YqZW19IAAAAJ
 #  docker:         matmu
 #  orcid:          "0000-0002-4728-3357"
   links:
@@ -79,7 +78,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "http://github.com/matmu"
     - label: "G. Scholar"
-      icon: "ai ai-google-scholar-square"
+      icon: "ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.de/citations?user=YqZW19IAAAAJ&hl=de"
  #   - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
