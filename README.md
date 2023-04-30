@@ -29,9 +29,5 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 
 ## Customization
 
-### Font
-Changed font family in _sass/minimal-mistakes/_variables.scss
-```
-$sans-serif: "PT Sans"
-$sans-serif-narrow: "PT Sans Narrow"
-```
+- academicicons.css (e.g. contains Google Scholars icon) stylesheet included by adding it to _includes/custom.html
+- Typography reverted back to older versions by making changes in _includes/custom.html and assets/css/main.scss according to https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/ 
