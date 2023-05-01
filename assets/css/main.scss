@@ -37,3 +37,8 @@ $caption-font-family: $serif;
     font-style: italic;  
    }
 }
+
+.author__avatar img {
+    max-width: 150px;
+    border-radius: 50%;
+}
