@@ -28,6 +28,8 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 
 
 ## Customization
-
-- academicicons.css (e.g. contains Google Scholars icon) stylesheet included by adding it to _includes/custom.html
-- Typography reverted back to older versions by making changes in _includes/custom.html and assets/css/main.scss according to https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/ 
+- [Documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+- Not all theme files are included in the repo directly but are used from the Gem. To make changes on these files, copy them from [here](https://github.com/mmistakes/minimal-mistakes) to the repo and Jekyll will prefer the local copy
+- `academicicons.css` (contains Google Scholar icon) stylesheet included by adding it to `_includes/custom.html`
+- Typography reverted back to older versions by adding stylesheets referencing fonts in `_includes/custom.html` and overriding SASS variables from `_sass/minimal-mistakes/_variables.scss` in `assets/css/main.scss` before `@import` statements (Instructions [here](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/))
+- Changed font size and family of sidebar by overriding CSS statements from `_sass/minimal-mistakes/_sidebar.scss` in `assets/css/main.scss` after `@import` statements
