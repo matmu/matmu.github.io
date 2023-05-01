@@ -13,3 +13,4 @@ In summer 2020, Matthias Munz left acadamia to pursue a position as bioinformati
 [genehopper]: http://genehopper.de/
 [qtlizer]: http://genehopper.de/qtlizer
 [r-bioc]: https://www.bioconductor.org/packages/devel/bioc/html/Qtlizer.html
+[dissertation-link]: https://refubium.fu-berlin.de/handle/fub188/24623
