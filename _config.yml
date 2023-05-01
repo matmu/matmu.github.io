@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Matthias Munz
+title: Matze's blog
 email: matthias.munz@gmx.de
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Matthias Munz"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/portrait_quadr.png"
   bio    : "From a village near Freiburg, Germany. Living and working in Penzberg, Bavaria. Passionate about bioinformatics, climbing and travelling. Programmer. Big data expert. Problem solver. Creator. Autodidact."
   location: Penzberg
 #  docker:         matmu
