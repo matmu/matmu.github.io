@@ -1,0 +1,223 @@
+
+- year: "Under review"
+  publications:
+    - authors: "Kanoni S et al."
+      title: "Implicating genes, pleiotropy and sexual dimorphism at blood lipid loci through multi-ancestry meta-analysis."
+      medrxiv: 21267852
+      medrxiv_link: "https://doi.org/10.1101/2021.12.15.21267852"
+      journal: "Genome Biol."
+    - authors: "Berutti R<sup>*</sup>, Gola D<sup>*</sup>, <b>Munz M</b><sup>*</sup> et al."
+      title: "DZHKomics: whole-genome sequencing of German population controls"
+    - authors: "Hoch et al."
+      title: "C5a/C5aR1 COMPLEMENT EXPRESSION IN PEMPHIGUS"
+    
+- year: 2022
+  publications:
+    - authors: "Yengo L et al."
+      title: "A saturated map of common genetic variants associated with human height."
+      doi: "10.1038/s41586-022-05275-y"
+      pmid: 36224396
+      journal: "Nature."
+    - authors: "Aragam KG et al."
+      title: "Discovery and systematic characterization of risk variants and genes for coronary artery disease in over a million participants."
+      medrxiv: 21257377
+      medrxiv_link: "https://doi.org/10.1101/2021.05.24.21257377"
+      journal: Nat Genetics.
+      doi: "10.1038/s41588-022-01233-6"
+      pmid: 36474045
+    - authors: "Ramdas S et al."
+      title: "A multi-layer functional genomic analysis to understand noncoding genetic variation in lipids."
+      biorxiv: 470215
+      biorxiv_link: https://doi.org/10.1101/2021.12.07.470215
+      journal: American J Hum Genet.
+      pmid: 35931049
+      doi: "10.1016/j.ajhg.2022.06.012"
+      
+- year: 2021
+  publications:
+    - authors: "Graham SE et al."
+      title: "The power of genetic diversity in genome-wide association studies of lipids."
+      journal: "Nature."
+      doi: "10.1038/s41586-021-04064-3"
+      pmid: 34887591
+    - authors: "Freitag-Wolf S, <b>Munz M</b> et al."
+      title: "Sex-specific genetic factors affect the risk of early-onset periodontitis."
+      journal: "J Clin Periodontol."
+      doi: "10.1111/jcpe.13538"
+      pmid: 34409643
+    - authors: "Ramzan S et al."
+      title: "A novel missense mutation in TNNI3K causes recessively inherited cardiac conduction disease in a consanguineous Pakistani family."
+      journal: "Genes."
+      pmid: 34440456
+      doi: "10.3390/genes12081282"
+    - authors: "Salviano-Silva A et al."
+      title: "Genetic association and differential expression of HLA Complex Group lncRNAs in pemphigus."
+      journal: "J Autoimmun."
+      doi: "10.1016/j.jaut.2021.102705"
+      pmid: "34325306"
+    - authors: "<b>Munz M</b><sup>*</sup>, Khodaygani M<sup>*</sup> et al."
+      title: "In silico candidate variant and gene identification using inbred mouse strains."
+      journal: "PeerJ."
+      biorxiv: 282731
+      biorxiv_link: https://doi.org/10.1101/2020.09.04.282731
+      doi: "10.7717/peerj.11017"
+      pmid: 33763305
+    - authors: "Zeng L et al."
+      title: "Cis-epistasis at the LPA locus and risk of cardiovascular diseases."
+      journal: "Cardiovasc Res."
+      biorxiv: 518290
+      biorxiv_link: https://doi.org/10.1101/518290
+      doi: 10.1093/cvr/cvab136
+      pmid: 33878186
+      
+- year: 2020
+  publications:
+    - authors: "<b>Munz M</b> et al."
+      title: "Qtlizer: comprehensive QTL annotation of GWAS results."
+      journal: "Sci Rep."
+      biorxiv: 495903
+      biorxiv_link: https://doi.org/10.1101/495903
+      doi: "10.1038/s41598-020-75770-7"
+      pmid: 33235230
+    - authors: "Wohlers I, Kuenstner A, <b>Munz M</b> et al."
+      title: "An integrated personal and population-based Egyptian genome reference."
+      journal: "Nat Commun."
+      biorxiv: 681254
+      biorxiv_link: https://doi.org/10.1101/681254
+      pmid: 32948767
+      doi: "10.1038/s41467-020-17964-1"
+    - authors: "Wienbergen et al."
+      title: "New Technologies for Intensive Prevention Programs After Myocardial Infarction – Rationale and Design of the NET-IPP-Study."
+      journal: "Clin Res Cardiol."
+      doi: "10.1007/s00392-020-01695-w"
+      pmid: 32734504
+    - authors: "Nashef A<sup>*</sup>, <b>Munz M</b><sup>*</sup> et al."
+      title: "Translation of mouse model to human gives insights into periodontitis etiology."
+      journal: "Sci Rep."
+      pmid: 32184465
+      doi: "10.1038/s41598-020-61819-0"
+    - authors: "Zheng Y et al."
+      title: "Mendelian randomization analysis does not support causal associations of birth weight with hypertension risk and blood pressure in adulthood."
+      journal: "Eur J Epidemiol."
+      pmid: 32383070
+      doi: "10.1007/s10654-020-00638-z"
+
+- year: 2019
+  publications:
+    - authors: "Freitag-Wolf S<sup>*</sup>, <b>Munz M</b><sup>*</sup> et al."
+      title: "Smoking Modifies the Genetic Risk for Early-Onset Periodontitis."
+      journal: "J Dent Res."
+      pmid: 31537151
+      doi: "10.1177/0022034519875443"
+    - authors: "Wienbergen H et al."
+      title: "Long-term prevention after myocardial infarction in young patients ≤45 years: the Intensive Prevention Program in the Young (IPP-Y) study."
+      journal: "Eur Heart J."
+      pmid: 31674209
+      doi: "10.1177/2047487319883960"
+    - authors: "Clark D et al."
+      title: "Associations of autozygosity with a broad range of human phenotypes."
+      journal: "Nat Commun."
+      pmid: 31673082
+      doi: "10.1038/s41467-019-12283-6"
+    - authors: "Richter GM, Kruppa J, <b>Munz M</b> et al."
+      title: "A combined epigenome- and transcriptome-wide association study of the solid oral mucosa assigns CYP1B1 a central role for epithelial health in smokers."
+      journal: "Clin Epigenetics."
+      pmid: 31331382
+      doi: "10.1186/s13148-019-0697-y"
+    - authors: "Kessler T et al."
+      title: "Association of the coronary artery disease risk gene GUCY1A3 with onaspirin platelet reactivity and ischemic events after coronary intervention."
+      journal: "Cardiovasc Res."
+      pmid: 30768153
+      doi: "10.1093/cvr/cvz015"
+    - authors: "Bejaoui Y et al."
+      title: "Genome-wide association study of psoriasis in an Egyptian population."
+      journal: "Exp Dermatol."
+      pmid: 30921485
+      doi: "10.1111/exd.13926"
+
+- year: 2018
+  publications:
+    - authors: "Westermaier A<sup>*</sup>, <b>Munz M</b><sup>*</sup>et al."
+      title: "Association of genetic variation at Aquaporin-4 locus with vascular depression."
+      journal: "Biomol."
+      pmid: 30563176
+      doi: "10.3390/biom8040164"
+    - authors: "<b>Munz M</b> et al."
+      title: "Meta-analysis of genome-wide association studies of aggressive and chronic periodontitis identifies two novel risk loci."
+      journal: "Eur J Hum Genet."
+      pmid: 30218097
+      doi: "10.1038/s41431-018-0265-5"
+    - authors: "<b>Munz M</b> et al."
+      title: "Genome-wide association meta-analysis of coronary artery disease and periodontitis reveals a novel shared risk locus."
+      journal: "Sci Rep."
+      pmid: 30209331
+      doi: "10.1038/s41598-018-31980-8"
+    - authors: "Offenbacher S el al."
+      title: "GWAS for Interleukin-1β levels in gingival crevicular fluid identifies IL37 variants in periodontal inflammation."
+      journal: "Nat Commun."
+      pmid: 0206230
+      doi: "10.1038/s41467-018-05940-9"
+    - authors: "Aarabi G et al."
+      title: "Roles of the Chr.9p21.3 ANRIL Locus in Regulating Inflammation and Implications for Anti-Inflammatory Drug Target Identification."
+      journal: "Front Cardiovasc Med."
+      pmid: 29868613
+      doi: "0.3389/fcvm.2018.00047"
+    - authors: "Nashef A, Qabaja R, Salaymeh Y, Botzman M, <b>Munz M</b> et al."
+      title: "Integration of Murine and Human Studies for Mapping Periodontitis Susceptibility."
+      journal: "J Dent Res."
+      pmid: 29294296
+      doi: "10.1177/0022034517744189"
+    - authors: "Schaich A, Westermaier AL, <b>Munz M</b> et al."
+      title: "Mental health and psychosocial functioning over the lifespan of German patients undergoing cardiac catheterization for coronary artery disease."
+      journal: "Front Psychiatry."
+      pmid: 29593584
+      doi: "10.3389/fpsyt.2018.00075"
+
+- year: 2017
+  publications:
+    - authors: "<b>Munz M</b> et al."
+      title: "A genome-wide association study identifies nucleotide variants at SIGLEC5 and DEFA1A3 as risk loci for periodontitis."
+      journal: "Hum Mol Genet."
+      pmid: 28449029
+      doi: "10.1093/hmg/ddx151"
+    - authors: "<b>Munz M</b><sup>*</sup>, Chen H<sup>*</sup>et al."
+      title: "A haplotype block downstream of plasminogen is associated with chronic and aggressive periodontitis."
+      journal: "J Clin Periodontol."
+      pmid: 28548211
+      doi: "10.1111/jcpe.12749"
+    - authors: "Shusterman A, <b>Munz M</b> et al."
+      title: "The PF4/PPBP/CXCL5 Gene Cluster Is Associated with Periodontitis."
+      journal: "J Dent Res."
+      pmid: 28467728
+      doi: "10.1177/0022034517706311"
+    - authors: "Eitel I, Moeller C, <b>Munz M</b> et al."
+      title: "Genome wide association study in takotsubo syndrome - Preliminary results and future directions."
+      journal: "Int J Cardiol."
+      pmid: 28108127
+      doi: "10.1016/j.ijcard.2017.01.093"
+    - authors: "Haycock PC et al."
+      title: "Association Between Telomere Length and Risk of Cancer and Non-Neoplastic Diseases."
+      journal: "JAMA Oncol."
+      pmid: 28241208
+      doi: "10.1001/jamaoncol.2016.5945"
+
+- year: 2016
+  publications:
+    - authors: "Offenbacher S et al."
+      title: "Genome-wide association study of biologically informed periodontal complex traits offers novel insights into the genetic basis of periodontal disease."
+      journal: "Hum Mol Genet."
+      pmid: 26962152
+      doi: "10.1093/hmg/ddw069"
+
+- year: 2015
+  publications:
+    - authors: "<b>Munz M</b>, Tönnies S, Balke W-T, Simon E."
+      title: "Multidimensional gene search with Genehopper."
+      journal: "Nucl Acids Res."
+      pmid: 25990726
+      doi: "10.1093/nar/gkv511"
+    - authors: "Tinhofer I et al."
+      title: "Next-generation sequencing: hype and hope for development of personalized radiation therapy?"
+      journal: "Radiat Oncol."
+      pmid: 26316159
+      doi: "10.1186/s13014-015-0481-x"
