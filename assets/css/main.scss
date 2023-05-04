@@ -17,7 +17,6 @@ $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
 $caption-font-family: $serif;
 
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -41,6 +40,11 @@ $caption-font-family: $serif;
 .author__avatar img {
     max-width: 150px;
     border-radius: 50%;
+}
+
+.adj_academicicons i {
+   text-align: center;
+   width: 1.25em;
 }
 
 
