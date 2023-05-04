@@ -61,13 +61,11 @@ author:
   name   : "Matthias Munz"
   avatar : "/assets/images/portrait_quadr.png"
   bio    : "From a village near Freiburg, Germany. Living and working in Penzberg, Bavaria. Passionate about bioinformatics, climbing and travelling. Programmer. Big data expert. Problem solver. Creator. Autodidact."
-  location: Penzberg
-#  docker:         matmu
-#  orcid:          "0000-0002-4728-3357"
+#  location: Penzberg
   links:
-#   - label: "Website"
-#     icon: "fas fa-fw fa-link"
-#     url: "https://"
+    - label: "Penzberg"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "https://goo.gl/maps/jRkNWky3BkshXo23A"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:matthias.munz@gmx.de"
