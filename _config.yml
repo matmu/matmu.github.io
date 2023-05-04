@@ -90,6 +90,9 @@ author:
     - label: Orcid
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-4728-3357"
+    - label: Docker
+      icon: "fab fa-docker"
+      url: "http://hub.docker.com/u/matmu"
 
 footer:
   links:
