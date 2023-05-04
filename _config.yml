@@ -90,7 +90,7 @@ author:
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/1150325"
     - label: Orcid
-      icon: "fab fa-orcid"
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-4728-3357"
 
 footer:
