@@ -144,23 +144,22 @@
       tags: Onsight
  - year: Before
    routes:
-    - name: Diedro UBSA
-      wall: Peñón de Ifach
-      country: Spain
-      region: Costa Blanca / Calp
-      partner: M.B., J.L.
-      UIAA: 6
-    - name: Magical Mystery Tour
-      wall: Sierra de Toix
-      country: Spain
-      region: Costa Blanca
-      UIAA: 6-
-    - name: Opakante
-      wall: Schreyfels
-      country: Germany
-      region: Baden-Württemberg / Donautal
-      partner: M.
-      UIAA: 3+
-      ref_thecrag: https://www.thecrag.com/de/klettern/germany/schwaebische-alb/donautal/area/662723286
-      
-  
+     - name: Diedro UBSA
+       wall: Peñón de Ifach
+       country: Spain
+       region: Costa Blanca / Calp
+       partner: M.B., J.L.
+       UIAA: 6
+     - name: Magical Mystery Tour
+       wall: Sierra de Toix
+       country: Spain
+       region: Costa Blanca
+       UIAA: 6-
+       ref_thecrag: https://www.thecrag.com/de/klettern/spain/sierra-de-toix/route/2457292104
+     - name: Opakante
+       wall: Schreyfels
+       country: Germany
+       region: Baden-Württemberg / Donautal
+       partner: M.
+       UIAA: 3+
+       ref_thecrag: https://www.thecrag.com/de/klettern/germany/schwaebische-alb/donautal/area/662723286
