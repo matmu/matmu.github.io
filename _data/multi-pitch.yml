@@ -4,7 +4,7 @@
     - name: Moon Bears
       wall: Parete del Limaro
       country: Italy
-      region: Arco/Lago di Garda
+      region: Arco / Lago di Garda
       date: 07.05.2023
       UIAA: 6
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/moon-bears-picol-dain/
@@ -13,7 +13,7 @@
     - name: Dinosauri
       wall: Cima alle Coste
       country: Italy
-      region: Arco/Lago di Garda
+      region: Arco / Lago di Garda
       date: 06.05.2023
       UIAA: 7-/7 (6- obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/dinosauri-cima-alle-coste/
@@ -22,7 +22,7 @@
     - name: Elios
       wall: Parete di San Paolo
       country: Italy
-      region: Arco/Lago di Garda
+      region: Arco / Lago di Garda
       date: 05.05.2023
       UIAA: 7+
       ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/2293184544
@@ -30,7 +30,7 @@
     - name: Athene
       wall: Parete di San Paolo
       country: Italy
-      region: Arco/Lago di Garda
+      region: Arco / Lago di Garda
       partner: GP
       date: 24.03.2023
       ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/501985221
@@ -38,7 +38,7 @@
     - name: Archangelo
       wall: Parete di San Paolo
       country: Italy
-      region: Arco/Lago di Garda
+      region: Arco / Lago di Garda
       partner: GP
       date: 25.03.2023
       ref_thecrag: https://www.thecrag.com/en/climbing/italy/arco/route/5997998097
@@ -46,14 +46,14 @@
     - name: Weg durch das Gesicht
       wall: Parete di San Paolo
       country: Italy
-      region: Arco/Lago di Garda
+      region: Arco / Lago di Garda
       partner: GP
       date: 26.03.2023
       UIAA: 8-
     - name: Wegrama
       wall: Benediktenwand
       country: Austria
-      region: Karwendel/Innsbruck
+      region: Karwendel / Innsbruck
       partner: IK
       date: 18.03.2023
       comment: Stepped out to route Spätlese before 2nd last pitch and skipped the
@@ -81,7 +81,7 @@
     - name: Selene
       wall: Parete di San Paolo
       country: Italy
-      region: Arco/Lago di Garda
+      region: Arco / Lago di Garda
       partner: IK
       date: 13.05.2022
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/selene-parete-san-paolo-arco/
@@ -90,7 +90,7 @@
     - name: La Luna Argentea
       wall: Cima Alle Coste
       country: Italy
-      region: Arco/Lago di Garda
+      region: Arco / Lago di Garda
       partner: IK
       date: 13.05.2022
       UIAA: 7+ (6/A0, 5 obl.)
@@ -99,7 +99,7 @@
     - name: Maxl's Krone
       wall: Benediktenwand
       country: Austria
-      region: Karwendel/Innsbruck
+      region: Karwendel / Innsbruck
       partner: IK
       date: 27.03.2022
       UIAA: 7- (6- obl.)
@@ -107,7 +107,7 @@
     - name: Maxl's Gamsrevier
       wall: Benediktenwand
       country: Austria
-      region: Karwendel/Innsbruck
+      region: Karwendel / Innsbruck
       partner: IK
       date: 27.03.2022
       UIAA: 7- (6- obl.)
@@ -115,7 +115,7 @@
     - name: Südwestkante
       wall: Großer Illing
       country: Austria
-      region: Karwendel/Innsbruck
+      region: Karwendel / Innsbruck
       partner: PB
       date: 20.03.2022
       UIAA: 5
@@ -125,7 +125,7 @@
     - name: Sunset Boulevard
       wall: null
       country: Austria
-      region: Heiming/Inntal
+      region: Heiming / Inntal
       partner: IK
       date: 30.10.2021
       tags: Onsight
