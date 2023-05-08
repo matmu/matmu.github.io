@@ -8,7 +8,7 @@
       date: 07.05.2023
       UIAA: 6
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/moon-bears-picol-dain/
-      partner: IK
+      partner: I.K.
       tags: Onsight
     - name: Dinosauri
       wall: Cima alle Coste
@@ -17,7 +17,7 @@
       date: 06.05.2023
       UIAA: 7-/7 (6- obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/dinosauri-cima-alle-coste/
-      partner: IK
+      partner: I.K.
       tags: Onsight
     - name: Elios
       wall: Parete di San Paolo
@@ -26,12 +26,12 @@
       date: 05.05.2023
       UIAA: 7+
       ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/2293184544
-      partner: GP
+      partner: G.P.
     - name: Athene
       wall: Parete di San Paolo
       country: Italy
       region: Arco / Lago di Garda
-      partner: GP
+      partner: G.P.
       date: 24.03.2023
       ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/501985221
       UIAA: 7+ (6+ obl.)
@@ -39,7 +39,7 @@
       wall: Parete di San Paolo
       country: Italy
       region: Arco / Lago di Garda
-      partner: GP
+      partner: G.P.
       date: 25.03.2023
       ref_thecrag: https://www.thecrag.com/en/climbing/italy/arco/route/5997998097
       UIAA: 7+
@@ -47,14 +47,14 @@
       wall: Parete di San Paolo
       country: Italy
       region: Arco / Lago di Garda
-      partner: GP
+      partner: G.P.
       date: 26.03.2023
       UIAA: 8-
     - name: Wegrama
       wall: Benediktenwand
       country: Austria
       region: Karwendel / Innsbruck
-      partner: IK
+      partner: I.K.
       date: 18.03.2023
       comment: Stepped out to route Spätlese before 2nd last pitch and skipped the
         hardest part.
@@ -67,22 +67,23 @@
       wall: Glaswand
       country: Germany
       region: Bavarian Prealps
-      partner: IK
+      partner: I.K.
       date: 24.07.2022
       UIAA: 7-
       tags: Onsight
     - name: Kochelmonster
-      wall: null
+      wall: Reservat
       country: Germany
       region: Kochel
-      partner: IK
+      partner: I.K.
       date: 06.07.2022
       tags: Flash
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/kochel/route/252745986
     - name: Selene
       wall: Parete di San Paolo
       country: Italy
       region: Arco / Lago di Garda
-      partner: IK
+      partner: I.K.
       date: 13.05.2022
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/selene-parete-san-paolo-arco/
       uiaa: 6
@@ -91,7 +92,7 @@
       wall: Cima Alle Coste
       country: Italy
       region: Arco / Lago di Garda
-      partner: IK
+      partner: I.K.
       date: 13.05.2022
       UIAA: 7+ (6/A0, 5 obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/la-luna-argentea-cima-alle-coste/
@@ -100,7 +101,7 @@
       wall: Benediktenwand
       country: Austria
       region: Karwendel / Innsbruck
-      partner: IK
+      partner: I.K.
       date: 27.03.2022
       UIAA: 7- (6- obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/maxls-krone-martinswand/
@@ -108,24 +109,24 @@
       wall: Benediktenwand
       country: Austria
       region: Karwendel / Innsbruck
-      partner: IK
+      partner: I.K.
       date: 27.03.2022
       UIAA: 7- (6- obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/maxls-gamsrevier-martinswand/
     - name: Südwestkante
       wall: Großer Illing
-      country: Austria
-      region: Karwendel / Innsbruck
-      partner: PB
+      country: Germany
+      region: Bavarian Prealps
+      partner: P.B.
       date: 20.03.2022
       UIAA: 5
       tags: Onsight
 - year: 2021
   routes:
     - name: Sunset Boulevard
-      wall: null
+      wall: Geierwand
       country: Austria
-      region: Heiming / Inntal
+      region: Tirol / Wetterstein-Gebirge und Mieminger Kette
       partner: IK
       date: 30.10.2021
       tags: Onsight
@@ -133,7 +134,7 @@
       wall: Leonhardstein
       country: Germany
       region: Bavarian Prealps
-      partner: IK
+      partner: I.K.
       date: 21.08.2021
       UIAA: 7 (6 obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/fahrt-ins-blaue-leonhardstein/
