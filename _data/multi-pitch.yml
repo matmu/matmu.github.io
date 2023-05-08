@@ -17,6 +17,7 @@
       date: 06.05.2023
       UIAA: 7-/7 (6- obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/dinosauri-cima-alle-coste/
+      ref_thecrag: https://www.thecrag.com/de/klettern/italy/arco/route/669860052
       partner: I.K.
       tags: Onsight
     - name: Elios
@@ -50,6 +51,7 @@
       partner: G.P.
       date: 26.03.2023
       UIAA: 8-
+      ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/2294659443
     - name: Wegrama
       wall: Martinswand
       country: Austria
@@ -130,6 +132,7 @@
       partner: IK
       date: 30.10.2021
       tags: Onsight
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/sunset-boulevard-geierwand/
     - name: Fahrt ins Blaue
       wall: Leonhardstein
       country: Germany
