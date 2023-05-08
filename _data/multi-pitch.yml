@@ -9,6 +9,7 @@
       UIAA: 6
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/moon-bears-picol-dain/
       partner: IK
+      tags: Onsight
     - name: Dinosauri
       wall: Cima alle Coste
       country: Italy
@@ -17,6 +18,7 @@
       UIAA: 7-/7 (6- obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/dinosauri-cima-alle-coste/
       partner: IK
+      tags: Onsight
     - name: Elios
       wall: Parete di San Paolo
       country: Italy
@@ -58,6 +60,7 @@
         hardest part.
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/wegrama-martinswand/
       UIAA: 7+ (6+ obl.)
+      tags: Onsight
 - year: 2022
   routes:
     - name: Geduldsfaden
@@ -67,12 +70,14 @@
       partner: IK
       date: 24.07.2022
       UIAA: 7-
+      tags: Onsight
     - name: Kochelmonster
       wall: null
       country: Germany
       region: Kochel
       partner: IK
       date: 06.07.2022
+      tags: Flash
     - name: Selene
       wall: Parete di San Paolo
       country: Italy
@@ -81,14 +86,16 @@
       date: 13.05.2022
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/selene-parete-san-paolo-arco/
       uiaa: 6
+      tags: Onsight
     - name: La Luna Argentea
       wall: Cima Alle Coste
       country: Italy
       region: Arco/Lago di Garda
       partner: IK
       date: 13.05.2022
-      UIAA: 6 (5 obl.)
+      UIAA: 7+ (6/A0, 5 obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/la-luna-argentea-cima-alle-coste/
+      tags: Onsight
     - name: Maxl's Krone
       wall: Benediktenwand
       country: Austria
@@ -112,6 +119,7 @@
       partner: PB
       date: 20.03.2022
       UIAA: 5
+      tags: Onsight
 - year: 2021
   routes:
     - name: Sunset Boulevard
@@ -120,6 +128,7 @@
       region: Heiming/Inntal
       partner: IK
       date: 30.10.2021
+      tags: Onsight
     - name: Fahrt ins Blaue
       wall: Leonhardstein
       country: Germany
@@ -128,3 +137,4 @@
       date: 21.08.2021
       UIAA: 7 (6 obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/fahrt-ins-blaue-leonhardstein/
+      tags: Onsight
