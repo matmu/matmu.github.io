@@ -1,31 +1,52 @@
 ---
 - year: 2023
   routes:
+    - name: Moon Bears
+      wall: Parete del Limaro
+      country: Italy
+      region: Arco/Lago di Garda
+      date: 07.05.2023
+      UIAA: 6
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/moon-bears-picol-dain/
+      partner: IK
+    - name: Dinosauri
+      wall: Cima alle Coste
+      country: Italy
+      region: Arco/Lago di Garda
+      date: 06.05.2023
+      UIAA: 7-/7 (6- obl.)
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/dinosauri-cima-alle-coste/
+      partner: IK
+    - name: Elios
+      wall: Parete di San Paolo
+      country: Italy
+      region: Arco/Lago di Garda
+      date: 05.05.2023
+      UIAA: 7+
+      ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/2293184544
+      partner: GP
     - name: Athene
-      wall: Parete San Paolo
+      wall: Parete di San Paolo
       country: Italy
       region: Arco/Lago di Garda
       partner: GP
       date: 24.03.2023
-      comment: null
       ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/501985221
       UIAA: 7+ (6+ obl.)
     - name: Archangelo
-      wall: Parete San Paolo
+      wall: Parete di San Paolo
       country: Italy
       region: Arco/Lago di Garda
       partner: GP
       date: 25.03.2023
-      comment: null
       ref_thecrag: https://www.thecrag.com/en/climbing/italy/arco/route/5997998097
       UIAA: 7+
     - name: Weg durch das Gesicht
-      wall: Parete San Paolo
+      wall: Parete di San Paolo
       country: Italy
       region: Arco/Lago di Garda
       partner: GP
       date: 26.03.2023
-      comment: null
       UIAA: 8-
     - name: Wegrama
       wall: Benediktenwand
@@ -45,7 +66,6 @@
       region: Bavarian Prealps
       partner: IK
       date: 24.07.2022
-      comment: null
       UIAA: 7-
     - name: Kochelmonster
       wall: null
@@ -53,14 +73,12 @@
       region: Kochel
       partner: IK
       date: 06.07.2022
-      comment: null
     - name: Selene
-      wall: Parete San Paolo
+      wall: Parete di San Paolo
       country: Italy
       region: Arco/Lago di Garda
       partner: IK
       date: 13.05.2022
-      comment: null
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/selene-parete-san-paolo-arco/
       uiaa: 6
     - name: La Luna Argentea
@@ -70,7 +88,6 @@
       partner: IK
       date: 13.05.2022
       UIAA: 6 (5 obl.)
-      comment: null
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/la-luna-argentea-cima-alle-coste/
     - name: Maxl's Krone
       wall: Benediktenwand
@@ -79,7 +96,6 @@
       partner: IK
       date: 27.03.2022
       UIAA: 7- (6- obl.)
-      comment: null
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/maxls-krone-martinswand/
     - name: Maxl's Gamsrevier
       wall: Benediktenwand
@@ -88,7 +104,6 @@
       partner: IK
       date: 27.03.2022
       UIAA: 7- (6- obl.)
-      comment: null
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/maxls-gamsrevier-martinswand/
     - name: Südwestkante
       wall: Großer Illing
@@ -97,7 +112,6 @@
       partner: PB
       date: 20.03.2022
       UIAA: 5
-      comment: null
 - year: 2021
   routes:
     - name: Sunset Boulevard
@@ -106,13 +120,11 @@
       region: Heiming/Inntal
       partner: IK
       date: 30.10.2021
-      comment: null
     - name: Fahrt ins Blaue
       wall: Leonhardstein
       country: Germany
       region: Bavarian Prealps
       partner: IK
       date: 21.08.2021
-      comment: null
       UIAA: 7 (6 obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/fahrt-ins-blaue-leonhardstein/
