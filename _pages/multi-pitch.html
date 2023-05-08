@@ -6,7 +6,7 @@ title: "My multi-pitch climbs"
 {% for y in site.data.multi-pitch %}
   <h2>{{ y.year }}</h2>
     {% for r in y.routes %}
-      <div class="notice">
+      <div class="notice" style="margin: 1em 0 !important;">
         <h4>{{ r.name }} - {{r.wall}}</h4>
         <p>
           <i class="fas fa-signal"></i><span>{{ r.UIAA }}</span>
