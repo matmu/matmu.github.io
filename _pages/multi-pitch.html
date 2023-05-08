@@ -7,7 +7,7 @@ title: "My multi-pitch climbs"
   {% for y in site.data.multi-pitch %}
     <li>
       <a href="#{{ y.year }}">
-        <strong>{{ y.year }}</strong> <span class="taxonomy__count"> {{ y.routes.size }} </span>
+        <strong>{{ y.year }}</strong> <span class="taxonomy__count">{{ y.routes.size }}</span>
       </a>
     </li>
   {% endfor %}
@@ -32,8 +32,8 @@ title: "My multi-pitch climbs"
         </div>
         <p>
           <i class="fas fa-signal"></i><span>&nbsp;{{ r.UIAA }}&nbsp;&nbsp;</span>
-          <i class="fas fa-user-friends"></i><span>&nbsp;{{ r.partner }}&nbsp;&nbsp;</span>
-          <i class="fas fa-calendar-day"></i><span>&nbsp;{{ r.date }}</span><br/>
+          {% if r.partner %}<i class="fas fa-user-friends"></i><span>&nbsp;{{ r.partner }}&nbsp;&nbsp;</span>{% endif %}
+          {% if r.date %}<i class="fas fa-calendar-day"></i><span>&nbsp;{{ r.date }}</span>{% endif %}<br/>
           {{ r.country }} / {{r.region}}
         </p>
       </div>
