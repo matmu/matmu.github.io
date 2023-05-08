@@ -12,6 +12,9 @@ title: "My multi-pitch climbs"
           <i class="fas fa-signal"></i><span>&nbsp;{{ r.UIAA }}&nbsp;&nbsp;</span>
           <i class="fas fa-user-friends"></i><span>&nbsp;{{ r.partner }}&nbsp;&nbsp;</span><br/>
           {{ r.country }} / {{r.region}}
+          {% if r.ref_bergsteigen %}
+            <br/><a href="{{ r.ref_bergsteigen }}"><img src="https://www.bergsteigen.com/favicons/favicon-32x32.png?v=5AepkPPloP" alt="bergsteigen.com" style="width:16px;height:16px;"></a>
+          {% endif %}
         </p>
       </div>
   {% endfor %}
