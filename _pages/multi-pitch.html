@@ -3,4 +3,13 @@ permalink: /multi-pitch/
 title: "My multi-pitch climbs"
 ---
 
-Under construction.
+{% for y in site.data.multi-pitch %}
+  <h2>{{ y.year }}</h2>
+  {% for r in y.routes %}
+    <h3>{{ r.name }} - {{r.wall}}</h3>
+    <p>
+      {{ r.UIAA }}
+      {{ r.country }} / {{r.region}}
+    </p>
+  {% endfor %}
+{% endfor %}
