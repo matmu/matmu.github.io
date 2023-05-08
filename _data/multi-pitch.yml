@@ -142,15 +142,8 @@
       UIAA: 7 (6 obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/fahrt-ins-blaue-leonhardstein/
       tags: Onsight
- - year: Before 2021
+ - year: Before
    routes:
-    - name: Opakante
-      wall: Schreyfels
-      country: Germany
-      region: Baden-Württemberg / Donautal
-      partner: M.
-      UIAA: 3+
-      ref_thecrag: https://www.thecrag.com/de/klettern/germany/schwaebische-alb/donautal/area/662723286
     - name: Diedro UBSA
       wall: Peñón de Ifach
       country: Spain
@@ -162,5 +155,12 @@
       country: Spain
       region: Costa Blanca
       UIAA: 6-
+    - name: Opakante
+      wall: Schreyfels
+      country: Germany
+      region: Baden-Württemberg / Donautal
+      partner: M.
+      UIAA: 3+
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/schwaebische-alb/donautal/area/662723286
       
   
