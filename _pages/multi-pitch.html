@@ -7,21 +7,23 @@ title: "My multi-pitch climbs"
   <h2>{{ y.year }}</h2>
     {% for r in y.routes %}
       <div class="notice" style="margin: 1em 0 !important;">
-        <h4>{{ r.name }} - {{r.wall}}</h4>
+        <div>
+          <h4 style="float:left">{{ r.name }} - {{r.wall}}</h4>
+          <div style="float:right">
+            {% if r.ref_bergsteigen %}
+              <a href="{{ r.ref_bergsteigen }}" target="_blank"><img src="https://www.bergsteigen.com/favicons/favicon-32x32.png?v=5AepkPPloP" alt="bergsteigen.com" style="width:16px;height:16px;"></a>
+            {% endif %}
+            {% if r.ref_thecrag %}
+              <a href="{{ r.ref_thecrag }}" target="_blank"><img src="https://static.thecrag.com/cids/images/logo-114-1.1.1.png" alt="thecrag.com" style="width:16px;height:16px;"></a>
+            {% endif %}
+          </div>
+          <div style="clear:both"></div>
+        </div>
         <p>
           <i class="fas fa-signal"></i><span>&nbsp;{{ r.UIAA }}&nbsp;&nbsp;</span>
           <i class="fas fa-user-friends"></i><span>&nbsp;{{ r.partner }}&nbsp;&nbsp;</span>
           <i class="fas fa-calendar-day"></i><span>&nbsp;{{ r.date }}</span><br/>
           {{ r.country }} / {{r.region}}
-          {% if r.ref_bergsteigen or r.ref_thecrag %}
-            <br/>
-          {% endif %}
-          {% if r.ref_bergsteigen %}
-            <a href="{{ r.ref_bergsteigen }}" target="_blank"><img src="https://www.bergsteigen.com/favicons/favicon-32x32.png?v=5AepkPPloP" alt="bergsteigen.com" style="width:16px;height:16px;"></a>
-          {% endif %}
-          {% if r.ref_thecrag %}
-            <a href="{{ r.ref_thecrag }}" target="_blank"><img src="https://static.thecrag.com/cids/images/logo-114-1.1.1.png" alt="thecrag.com" style="width:16px;height:16px;"></a>
-          {% endif %}
         </p>
       </div>
   {% endfor %}
