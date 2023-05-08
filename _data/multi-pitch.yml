@@ -145,8 +145,10 @@
  - year: Before 2021
    routes:
     - name: Opakante
-      wall: Geierwand
+      wall: Schreyfels
       country: Germany
       region: Baden-Württemberg / Donautal
+      partner: M.
+      UIAA: 3+
       ref_thecrag: https://www.thecrag.com/de/klettern/germany/schwaebische-alb/donautal/area/662723286
   
