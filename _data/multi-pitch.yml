@@ -142,3 +142,11 @@
       UIAA: 7 (6 obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/fahrt-ins-blaue-leonhardstein/
       tags: Onsight
+ - year: Before 2021
+   routes:
+    - name: Opakante
+      wall: Geierwand
+      country: Germany
+      region: Baden-Württemberg / Donautal
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/schwaebische-alb/donautal/area/662723286
+  
