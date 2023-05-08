@@ -5,11 +5,13 @@ title: "My multi-pitch climbs"
 
 {% for y in site.data.multi-pitch %}
   <h2>{{ y.year }}</h2>
-  {% for r in y.routes %}
-    <h3>{{ r.name }} - {{r.wall}}</h3>
-    <p>
-      {{ r.UIAA }}
-      {{ r.country }} / {{r.region}}
-    </p>
+    {% for r in y.routes %}
+      <div class="notice">
+        <h3>{{ r.name }} - {{r.wall}}</h3>
+        <p>
+          {{ r.UIAA }}<br/>
+          {{ r.country }} / {{r.region}}
+        </p>
+      </div>
   {% endfor %}
 {% endfor %}
