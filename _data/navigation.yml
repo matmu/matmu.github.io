@@ -3,8 +3,6 @@ main:
     url: /posts/
   - title: "About"
     url: /about/
-  - title: "Curriculum"
-    url: /cv/
   - title: "Publications"
     url: /publications/
   - title: "Multi-pitch"
