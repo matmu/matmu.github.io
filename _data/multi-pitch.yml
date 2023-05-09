@@ -8,6 +8,7 @@
       date: 07.05.2023
       UIAA: 6
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/moon-bears-picol-dain/
+      ref_thecrag: https://www.thecrag.com/en/climbing/italy/dain/route/1595385456
       partner: I.K.
       tags: Onsight
     - name: Dinosauri
@@ -89,6 +90,7 @@
       partner: I.K.
       date: 13.05.2022
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/selene-parete-san-paolo-arco/
+      ref_thecrag: https://www.thecrag.com/it/arrampicar/italy/parete-san-paolo/route/521951505
       uiaa: 6
       tags: Onsight
     - name: La Luna Argentea
@@ -99,6 +101,7 @@
       date: 13.05.2022
       UIAA: 7+ (6/A0, 5 obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/la-luna-argentea-cima-alle-coste/
+      ref_thecrag: https://www.thecrag.com/de/klettern/italy/arco/route/5418859974
       tags: Onsight
     - name: Maxl's Krone
       wall: Martinswand
@@ -124,16 +127,18 @@
       date: 20.03.2022
       UIAA: 5
       tags: Onsight
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/6519773742
 - year: 2021
   routes:
     - name: Sunset Boulevard
       wall: Geierwand
       country: Austria
-      region: Tirol / Wetterstein-Gebirge und Mieminger Kette
+      region: Tirol / Haiming
       partner: IK
       date: 30.10.2021
       tags: Onsight
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/sunset-boulevard-geierwand/
+      ref_thecrag: https://www.thecrag.com/de/klettern/austria/route/2630705067
     - name: Fahrt ins Blaue
       wall: Leonhardstein
       country: Germany
@@ -142,6 +147,7 @@
       date: 21.08.2021
       UIAA: 7 (6 obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/fahrt-ins-blaue-leonhardstein/
+      ref_thecrag: https://www.thecrag.com/pt/escalando/germany/oberbayern/route/1822794465
       tags: Onsight
 - year: Before
   routes:
