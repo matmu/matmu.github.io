@@ -14,6 +14,8 @@ During his time in academic research he worked on the detection of correlations 
 
 In summer 2020, Matthias Munz left acadamia to pursue a position as bioinformatics scientist in biomarker research at Roche in Penzberg.
 
+<a href="#page-title" class="back-to-top">Back to Top ↑</a>
+
 [zeit-article]: {{ site.baseurl }}/assets/pdfs/DIE-ZEIT-43-2018-18.10.2018.pdf
 [genehopper]: http://genehopper.de/
 [qtlizer]: http://genehopper.de/qtlizer
@@ -36,3 +38,4 @@ In summer 2020, Matthias Munz left acadamia to pursue a position as bioinformati
 * I received my Master's degree (M.Sc.) in Business Informatics at the <b>Technical University of Braunschweig</b>, Germany
 * I received my Bachelor's degree (B.Sc.) in Bioinformatics at the <b>University of Tübingen</b>, Germany
 
+<a href="#page-title" class="back-to-top">Back to Top ↑</a>
