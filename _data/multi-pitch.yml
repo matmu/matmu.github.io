@@ -29,22 +29,6 @@
       UIAA: 7+
       ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/2293184544
       partner: G.P.
-    - name: Athene
-      wall: Parete di San Paolo
-      country: Italy
-      region: Arco / Lago di Garda
-      partner: G.P.
-      date: 24.03.2023
-      ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/501985221
-      UIAA: 7+ (6+ obl.)
-    - name: Archangelo
-      wall: Parete di San Paolo
-      country: Italy
-      region: Arco / Lago di Garda
-      partner: G.P.
-      date: 25.03.2023
-      ref_thecrag: https://www.thecrag.com/en/climbing/italy/arco/route/5997998097
-      UIAA: 7+
     - name: Weg durch das Gesicht
       wall: Parete di San Paolo
       country: Italy
@@ -53,6 +37,22 @@
       date: 26.03.2023
       UIAA: 8-
       ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/2294659443
+    - name: Archangelo
+      wall: Parete di San Paolo
+      country: Italy
+      region: Arco / Lago di Garda
+      partner: G.P.
+      date: 25.03.2023
+      ref_thecrag: https://www.thecrag.com/en/climbing/italy/arco/route/5997998097
+      UIAA: 7+
+    - name: Athene
+      wall: Parete di San Paolo
+      country: Italy
+      region: Arco / Lago di Garda
+      partner: G.P.
+      date: 24.03.2023
+      ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/501985221
+      UIAA: 7+ (6+ obl.)
     - name: Wegrama
       wall: Martinswand
       country: Austria
@@ -98,7 +98,7 @@
       country: Italy
       region: Arco / Lago di Garda
       partner: I.K.
-      date: 13.05.2022
+      date: 12.05.2022
       UIAA: 7+ (6/A0, 5 obl.)
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/la-luna-argentea-cima-alle-coste/
       ref_thecrag: https://www.thecrag.com/de/klettern/italy/arco/route/5418859974
@@ -134,7 +134,7 @@
       wall: Geierwand
       country: Austria
       region: Tirol / Haiming
-      partner: IK
+      partner: I.K.
       date: 30.10.2021
       tags: Onsight
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/sunset-boulevard-geierwand/
@@ -155,7 +155,7 @@
       wall: Peñón de Ifach
       country: Spain
       region: Costa Blanca / Calp
-      partner: M.B., J.L.
+      partner: M.B., J.L., X.Y.
       UIAA: 6
       ref_thecrag: https://www.thecrag.com/en/climbing/spain/penon-de-ifach/route/14158117
     - name: Magical Mystery Tour
@@ -163,6 +163,7 @@
       country: Spain
       region: Costa Blanca
       UIAA: 6-
+      partner: M.B., J.L., X.Y.
       ref_thecrag: https://www.thecrag.com/de/klettern/spain/sierra-de-toix/route/2457292104
     - name: Opakante
       wall: Schreyfels
