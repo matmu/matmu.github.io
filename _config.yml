@@ -25,6 +25,7 @@ twitter_username: _MatthiasMunz
 github_username: matmu
 minimal_mistakes_skin: default
 search: true
+search_full_content: true
 
 # Build settings
 markdown: kramdown
