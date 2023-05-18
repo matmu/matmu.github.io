@@ -3,7 +3,7 @@ permalink: /about/
 title: "Matthias in a nutshell"
 toc: true
 toc_label: "Contents"
-toc_icon: "cog"
+toc_icon: "fas fa-file-alt"
 ---
 
 
