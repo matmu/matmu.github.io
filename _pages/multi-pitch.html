@@ -17,7 +17,7 @@ title: "My multi-pitch climbs"
   <section id="{{ y.year }}" class="taxonomy__section">
     <h2>{{ y.year }}</h2>
     {% for r in y.routes %}
-      <div class="notice" style="margin: 1em 0 !important;">
+      <div {% if r.id %}id="{{ r.id }}"{% endif %} class="notice" style="margin: 1em 0 !important;">
         <div>
           <h4 style="float:left">{{ r.name }} - {{r.wall}}</h4>
           <div style="float:right">
