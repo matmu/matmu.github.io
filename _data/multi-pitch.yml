@@ -12,6 +12,7 @@
       partner: I.K.
       tags: Onsight
     - name: Dinosauri
+      id: dinosauri
       wall: Cima alle Coste
       country: Italy
       region: Arco / Lago di Garda
