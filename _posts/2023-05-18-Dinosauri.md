@@ -26,4 +26,4 @@ gallery:
 
 Climbing the multi-pitch route Dinosauri
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery %}
