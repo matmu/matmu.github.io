@@ -24,6 +24,6 @@ gallery:
 ---
 
 
-Climbing the multi-pitch route [Dinosauri](/multi-pitch/#dinosauri)
+It's been a few weeks already, but still the multi-pitch route [Dinosauri](/multi-pitch/#dinosauri) in the Sarca valley/Italy is still very present to me.
 
 {% include gallery %}
