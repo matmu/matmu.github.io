@@ -1,9 +1,9 @@
 ---
 title: "Dinosauri"
 categories:
-  - blog
+  - Blog
 tags:
-  - Climbing
+  - climbing
 gallery:
   - image_path: /assets/images/2023_Climbing_Dinosauri/IMG_5308-th.jpg
     url: /assets/images/2023_Climbing_Dinosauri/IMG_5308.jpg
