@@ -24,6 +24,6 @@ gallery:
 ---
 
 
-Climbing the multi-pitch route [Dinosauri](multi-pitch/#dinosauri)
+Climbing the multi-pitch route [Dinosauri](/multi-pitch/#dinosauri)
 
 {% include gallery %}
