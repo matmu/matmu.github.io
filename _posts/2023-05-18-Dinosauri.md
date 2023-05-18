@@ -9,12 +9,12 @@ gallery:
     url: /assets/images/2023_Climbing_Dinosauri/IMG_5308.jpg
     alt: "Waypoint just before route entry of Dinosauri"
     title: "Waypoint just before route entry of Dinosauri"
-  - image_path: /assets/images/2023_Climbing_Dinosauri/IMG_5308-th.jpg
-    url: /assets/images/2023_Climbing_Dinosauri/IMG_5308.jpg
-    alt: "Quick nap before entering main wall from pitch 6"
-    title: "Quick nap before entering main wall from pitch 6"
   - image_path: /assets/images/2023_Climbing_Dinosauri/IMG_5375-th.jpg
     url: /assets/images/2023_Climbing_Dinosauri/IMG_5375.jpg
+    alt: "Quick nap before entering main wall from pitch 6"
+    title: "Quick nap before entering main wall from pitch 6"
+  - image_path: /assets/images/2023_Climbing_Dinosauri/IMG_5311-th.jpg
+    url: /assets/images/2023_Climbing_Dinosauri/IMG_5311.jpg
     alt: "Hook distances in the main wall"
     title: "Hook distances in the main wall"
   - image_path: /assets/images/2023_Climbing_Dinosauri/IMG_5330-th.jpg
@@ -24,5 +24,6 @@ gallery:
 ---
 
 
+Climbing the multi-pitch route Dinosauri
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
