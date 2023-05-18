@@ -28,6 +28,7 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 
 
 ## Customization
+- Page is based on template at https://github.com/mmistakes/mm-github-pages-starter (Page: https://mmistakes.github.io/mm-github-pages-starter/)
 - [Documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 - Not all theme files are included in the repo directly but are used from the Gem. To make changes on these files, copy them from [here](https://github.com/mmistakes/minimal-mistakes) to the repo and Jekyll will prefer the local copy
 - `academicicons.css` (contains Google Scholar icon) stylesheet included by adding it to `_includes/custom.html`
