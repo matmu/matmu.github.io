@@ -166,6 +166,18 @@
       UIAA: 6-
       partner: M.B., J.L., X.Y.
       ref_thecrag: https://www.thecrag.com/de/klettern/spain/sierra-de-toix/route/2457292104
+    - name: Alte Südwand
+      UIAA: 4+
+      partner: M.
+      wall: Gimpel
+      region: Tannheimer Berge / Allgäu
+      country: Germany
+    - name: Südwestkante
+      UIAA: 5
+      partner: M.
+      wall: Gehrenspitze
+      region: Tannheimer Berge / Allgäu
+      country: Germany
     - name: Opakante
       wall: Schreyfels
       country: Germany
