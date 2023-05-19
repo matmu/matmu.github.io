@@ -178,6 +178,13 @@
       wall: Gehrenspitze
       region: Tannheimer Berge / Allgäu
       country: Germany
+    - name: Adolf-Niklas-Gedächtnis-Weg
+      wall: Aussichtsfels
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/schwaebische-alb/donautal/route/249400260
+      partner: M.
+      UIAA: 4-
+      region: Baden-Württemberg / Donautal
+      country: Germany
     - name: Normalweg
       wall: Stuhlfels
       UIAA: 3
