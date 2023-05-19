@@ -178,6 +178,13 @@
       wall: Gehrenspitze
       region: Tannheimer Berge / Allgäu
       country: Germany
+    - name: Normalweg
+      wall: Stuhlfels
+      UIAA: 3
+      partner: M.
+      region: Baden-Württemberg / Donautal
+      country: Germany
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/schwaebische-alb/donautal/route/249502476
     - name: Opakante
       wall: Schreyfels
       country: Germany
