@@ -1,6 +1,54 @@
 ---
 - year: 2023
   routes:
+    - name: Rampe
+      date: 15.07.2023
+      wall: Benediktenwand
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P.
+      UIAA: 3
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/4024450599
+    - name: Maximiliansweg (Down)
+      date: 15.07.2023
+      wall: Benediktenwand
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P.
+      UIAA: 3-
+      ref_thecrag: https://www.thecrag.com/climbing/germany/oberbayern/route/4024450425
+    - name: Caveman
+      date: 15.07.2023
+      wall: Benediktenwand
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P.
+      UIAA: 7
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/4024613841
+    - name: Lebe deinen Traum
+      date: 08.07.2023
+      wall: Benediktenwand
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P.
+      UIAA: 7
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/3739183998
+    - name: Maximiliansweg
+      date: 08.07.2023
+      wall: Benediktenwand
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P., K.P.
+      UIAA: 3-
+      ref_thecrag: https://www.thecrag.com/climbing/germany/oberbayern/route/4024450425
+    - name: Zum Herzog
+      date: 24.06.2023
+      wall: Herzogstand (North-east)
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P.
+      UIAA: 4+
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/kochel/route/2453666712
     - name: Moon Bears
       wall: Parete del Limaro
       country: Italy
