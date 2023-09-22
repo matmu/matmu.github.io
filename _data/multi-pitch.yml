@@ -1,6 +1,14 @@
 ---
 - year: 2023
   routes:
+    - name: Eisenzeit
+      date: 17.09.2023
+      wall: Zugspitze
+      country: Germany
+      region: Wetterstein
+      partner: N. and L.
+      UIAA: 4-
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/bergfuehrerweg-eisenzeit-zugspitze/
     - name: Rampe
       date: 15.07.2023
       wall: Benediktenwand
